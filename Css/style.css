@@ -388,3 +388,9 @@ nav li > ul > li:hover > ul  {
   .bodybox {
     background-color: #040404;
   }
+  .submit {
+    text-decoration-color: #fff;
+  }
+  .error {
+    color: red;
+  }
