@@ -13,9 +13,9 @@
         <nav>
                 <ul>
                     <li class="sub">
-                        <a href="home.html">Home</a>
+                        <a href="index.html">Home</a>
                         <ul>
-                            <li><a href="presentation.html">Details</a></li>
+                            <li><a href="Details.html">Details</a></li>
                             <li class="sub">
                                 <a href="contact.html">contact</a>
                                 <ul>
